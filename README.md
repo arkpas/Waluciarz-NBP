@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/arkpas/Waluciarz-NBP/blob/master/preview/waluciarz.png)
 
-Waluciarz NBP is and application that allows user to view current and past currency rates which are taken from Narodowy Bank Polski Web API. It is easy to use and results are showed in simple, readible way.
+Waluciarz NBP is an application that allows user to view current and past currency rates which are taken from Narodowy Bank Polski Web API. It is easy to use and results are showed in simple, readible way.
 
 ## Used technologies/frameworks/libraries
 Java 8, JSON, JavaFX
